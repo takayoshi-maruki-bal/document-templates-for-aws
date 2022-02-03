@@ -1,4 +1,4 @@
-# 可用性
+# 可用性XXXXXXXXXXXXXXXXXXX
 ## 要件
 
 ## システム重要度
